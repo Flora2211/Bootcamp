@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>Primer ejercicio JAVA</title>
+
+
+
+
+</head>
+<body>
+  <script type="text/javascript">
+  /*
+  var edad;
+  //alert(edad)
+  var x = 7 % 3;
+  var y = 27 / 3;
+  x += y;
+  alert(x + " " + y);
+  console.log(x + " " + y);
+  */
+  /*
+  var esValido = true;
+  var  monto = 100;
+  if ((monto == 100) && (esValido)) 
+  {
+  monto = monto + 100;
+  } 
+  else 
+  {
+  monto = monto - 100;
+  }
+  alert('El monto es: ' + monto);
+  */
+  /*
+  var cont;
+  for(cont=1; cont < 110; cont++) {
+  document.write(cont+"<br>");
+  }
+ 
+  var palabra = prompt("ingrese palabra a adivinar: " , "");
+  for (var i = 0; i < palabra.length; i++) {
+  palabra[i]= document.write("_ ");
+}
+  }
+  */
+
+  var arreglo = ["bombero","carro", "estudiante","edificio","cometa"];
+    var indiceAleatorio = Math.ceil(Math.random() * 10) % arreglo.length;
+
+    document.write(indiceAleatorio + "<br>");
+
+     for (var i = 0; i < 7; i++) {
+  
+    var palabraAleatoria = arreglo[indiceAleatorio];
+    document.write(palabraAleatoria);
+
+    var posletras = new Array();
+    var encontrada= false;
+
+    for (var letra = 0; letra < palabraAleatoria.length; letra++) {
+  
+      var letraMaquina = palabraAleatoria.chartAt(letra);
+      if (letraUsuario == letraMaquina) {
+        posletras[] = letra;
+        j++;
+        encontrada = true;
+      }
+    }
+  }
+
+</script>
+</body>
+</html>

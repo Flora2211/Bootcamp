@@ -1,0 +1,33 @@
+body
+{
+ background-image: url(http://fandroides.com/wp-content/uploads/2014/05/wall4.jpg); 
+ font-family: arial;
+ color: white;
+ font-size: 1.2 em;
+}
+#tittle
+{text-align: center;
+color:#FFDE82; 
+letter-spacing: 2px;
+line-height: 3;
+font-size: 42px;
+ }
+#p_red
+{ font-family: arial;
+  font-size: 18px;
+  text-align: justify;
+  line-height: 1;
+}
+.list_1{
+  color:white; 
+  text-align: center;
+  line-height: 2;
+  
+}
+.p:hover {
+  color: rgb(255,106,219);
+}
+.p{
+  font-size: 18px;
+  text-align: justify;
+}

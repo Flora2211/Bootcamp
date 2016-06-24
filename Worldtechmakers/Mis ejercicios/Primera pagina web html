@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="Estilo.css">
+  <meta charset="utf-8">
+  <meta name="description" content="Información básica sobre pugs, sus cuidados y recomendaciones además de experiencias propias vividas con ellos">
+  <meta name="Keywords" content="Pug, cuidado de un pug, fotos de pug">
+  <meta name="author" content="Laura Florez">
+
+<!--Encabezado-->
+
+  <title id="tittle">Todo sobre los Pugs</title>
+</head>
+<body>
+  <div class="encabezado">
+    <header>
+
+      <h1>PUGS</h1>
+      <h2>Todo sobre ellos</h2>
+          <div id="img1">  <img src="https://s-media-cache-ak0.pinimg.com/736x/4a/6b/99/4a6b99dff269151dd3d703fb47464bb0.jpg">
+    </div>
+    </header>
+  </div>
+
+  <div class="espacio">
+  </div>
+
+  <div class="P1">
+    <h2>Un breve descripción de la raza</h2>
+    <p>El pug, doguillo o carlino, es un perro muy particular. Si hubiera que definirlo en dos palabras habría que decir que se trata de un mastín bonsai. Y el lema "oficial" de la raza multum in parvo (len latín: mucho en poco - mucha sustancia en pequeño espacio), ciertamente hace alusión a un gran perro en un cuerpo pequeño.<br>
+    Esta raza de canes necesita tener compañía constantemente ya que son muy juguetones y si están solos, pueden desarrollar ansiedad por separación.
+    </p>
+  </div>
+
+  <div class="P1">
+    <h2>Caracteristicas y Comportamientos</h2>
+    <ul>
+      <li><h3 id="color">Colores  y capa.</h3>
+      Podemos encontrar Pug de color plateado, albaricoque, leonado y negro, aunque actualmente los de color plateado escasean. Aunque no se menciona en el estándar de la raza, los Pug leonados tienen una doble capa, que consiste en una capa externa resistente a la intemperie y en una subcapa suave y aislante. En los Pug negros la capa es sencilla.</li><br>
+      <li><h3 id="color">Cola.</h3> 
+      La cola enroscada del Pug es natural y no se corta para que tenga este aspecto. De hecho, no es tan corta como pudiera imaginarse con una primera impresión; lo que pasa es que está muy enroscada.</li>
+    </ul>
+  </div>
+
+  <div>
+    <img src="http://40.media.tumblr.com/19cf771aa77c49badd6f3e23f032f56e/tumblr_nx618fDcmb1twt4dho6_500.jpg" width="400" height="300">
+    <img src="http://36.media.tumblr.com/59b53adce9d3d1d1e7df2d6c7c38c226/tumblr_o280mq9nHi1tga488o1_1280.png" width="400" height="300">
+    <img src="http://image.dek-d.com/27/0534/1481/120552133" width="400" height="300">
+  </div>
+    
+  
+</body>
+</html>

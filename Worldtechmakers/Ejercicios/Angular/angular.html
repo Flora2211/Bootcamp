@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src=angular.min.js></script>
+  <title>
+  </title>
+</head>
+<body ng-app>
+  
+  <div>
+    <label>Operando 1</label>
+    <input type="numeber" ng-model="operando1" placeholder="operando 1"><br>
+    <label>Operando 2</label>
+    <input type="number" ng-model="operando2" placeholder="operando 2"><br>
+    <button ng-click="resultado = operando1 / operando2"> / </button>
+    <p>{{resultado}}</p>
+  </div>
+
+</body>
+</html>
